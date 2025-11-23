@@ -1,4 +1,4 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "pew"
+date: 2025-11-23
 ---
